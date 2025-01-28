@@ -7,7 +7,7 @@ CDISC is developing CDISC Open Rules Engine (CORE), but only the command line in
 -Current version is based on CDISC CORE v.0.8.1
 
 ## How to Use
-[Screen Image](gui_image.png)
+![Screen Image](gui_image.png)
 
 ## How to Download
 -Under preparation.
