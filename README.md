@@ -17,7 +17,7 @@ Following image is GUI of this tool. To validate data package...
 Basic Settings\
 -Standard: Specify Implematation Guide. All standards supported by CORE show up.\
 -Version: Specify version of Standard.\
--CT: Specify version of controlled terminology. Terminology should be placed in resources/cache folder.\
+-CT: Specify version of controlled terminology. Terminology should be placed in 'resources/cache' folder.\
 \
 External Dictionaries\
 -MedDRA: Optional. Specify version.\
