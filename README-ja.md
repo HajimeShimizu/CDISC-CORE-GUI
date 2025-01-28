@@ -12,9 +12,9 @@ core_gui.exeをダブルクリックします。**起動まで時間がかかる
 
 <img width="500" alt="GUI image" src="gui_image.png">
 
-### Configuration
-Basic Settings\
--Standard: Specify Implematation Guide. All standards supported by CORE show up.\
+### パラメータの指定
+基本設定
+- 標準: Specify Implematation Guide. All standards supported by CORE show up.\
 -Version: Specify version of Standard.\
 -CT: Specify version of controlled terminology. Terminology should be placed in 'resources/cache' folder.\
 \
