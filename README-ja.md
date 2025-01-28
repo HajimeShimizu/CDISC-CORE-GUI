@@ -23,16 +23,15 @@ core_gui.exeをダブルクリックします。**起動まで時間がかかる
 - WHODD：任意指定。バージョンを指定してください
 - MED-RT：任意指定。バージョンを指定してください
 - LOINC：任意指定。バージョンを指定してください
-\
-Define.xml\
--Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.\
--define.xml v1.0 is not supported\
-\
-Data files\
--Specify dataset file(s). XPT, JSON, Parquet, USDM are acceptable file formats.\
-\
-Output\
--Specify report folder. '/report' is recommended.
 
-## How to prepare external dictionaries
+Define.xml
+- define.xmlのパス　または　想定されるdefine.xmlのバージョン　のいずれかを指定します。両方のパラメータを設定した場合、指定されたdefine.xmlのコンテンツが優先されます（仮想のdefine.xmlバージョンは無視されます）
+
+データセット
+- バリデーションの対象となるデータセットを指定します。XPT・JSON・PARQUET・USDM形式のデータを指定できます
+
+出力先
+- レポートの出力先フォルダを指定します。’/report’フォルダを推奨します
+
+## 辞書のセットアップ
 -Under preparation.
