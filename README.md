@@ -8,6 +8,7 @@ CDISC is developing CDISC Open Rules Engine (CORE), but only the command line in
 
 ## How to Use
 Following image is GUI of this tool.\
+\
 <img width="500" alt="GUI image" src="gui_image.png">
 
 ### Configuration
