@@ -14,9 +14,9 @@ core_gui.exeをダブルクリックします。**起動まで時間がかかる
 
 ### パラメータの指定
 基本設定
-- 標準: Specify Implematation Guide. All standards supported by CORE show up.\
--Version: Specify version of Standard.\
--CT: Specify version of controlled terminology. Terminology should be placed in 'resources/cache' folder.\
+- 標準:標準を指定します。COREでサポートされている標準のみ表示されます
+- バージョン:標準のバージョンを選択します
+- CT:Controlled Terminologyのバージョンを選びます。'resources/cache'フォルダ内にある用語がリストで表示されます
 \
 External Dictionaries\
 -MedDRA: Optional. Specify version.\
