@@ -17,12 +17,12 @@ core_gui.exeをダブルクリックします。**起動まで時間がかかる
 - 標準:標準を指定します。COREでサポートされている標準のみ表示されます
 - バージョン:標準のバージョンを選択します
 - CT:Controlled Terminologyのバージョンを選びます。'resources/cache'フォルダ内にある用語がリストで表示されます
-\
-External Dictionaries\
--MedDRA: Optional. Specify version.\
--WHODD: Optional. Specify version.\
--MED-RT: Optional. Specify version.\
--LOINC: Optional. Specify version.\
+
+外部辞書
+- MedDRA: Optional. Specify version.\
+- WHODD: Optional. Specify version.\
+- MED-RT: Optional. Specify version.\
+- LOINC: Optional. Specify version.\
 \
 Define.xml\
 -Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.\
