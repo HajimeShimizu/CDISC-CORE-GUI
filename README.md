@@ -7,10 +7,10 @@ CDISC is developing CDISC Open Rules Engine (CORE), but only the command line in
 -Current version is based on CDISC CORE v.0.8.1
 
 ## How to Use
-Following image is GUI of this tool. To validate data package...\
+Following image is GUI of this tool. To validate data package...
 1. Specify all required parameters.
 2. Press 'Run' button.
-\
+
 <img width="500" alt="GUI image" src="gui_image.png">
 
 ### Configuration
