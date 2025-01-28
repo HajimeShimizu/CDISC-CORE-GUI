@@ -30,7 +30,7 @@ Define.xml\
 -define.xml v1.0 is not supported\
 \
 Data files\
--Specify dataset files. XPT, JSON, Parquet, USDM are acceptable file formats.\
+-Specify dataset file(s). XPT, JSON, Parquet, USDM are acceptable file formats.\
 \
 Output\
 -Specify report folder. '/report' is recommended.
