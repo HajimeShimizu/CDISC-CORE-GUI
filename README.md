@@ -24,7 +24,7 @@ External Dictionaries\
 -LOINC: Optional. Specify version.\
 \
 Define.xml\
--Either 'path of define.xml' or 'expected version of define.xml' must be specified.\
+-Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.\
 -define.xml v1.0 is not supported\
 \
 Data files\
