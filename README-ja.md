@@ -14,15 +14,15 @@ core_gui.exeをダブルクリックします。**起動まで時間がかかる
 
 ### パラメータの指定
 基本設定
-- 標準:標準を指定します。COREでサポートされている標準のみ表示されます
-- バージョン:標準のバージョンを選択します
-- CT:Controlled Terminologyのバージョンを選びます。'resources/cache'フォルダ内にある用語がリストで表示されます
+- 標準：標準を指定します。COREでサポートされている標準のみ表示されます
+- バージョン：標準のバージョンを選択します
+- CT：Controlled Terminologyのバージョンを選びます。'resources/cache'フォルダ内にある用語がリストで表示されます
 
 外部辞書
-- MedDRA: Optional. Specify version.\
-- WHODD: Optional. Specify version.\
-- MED-RT: Optional. Specify version.\
-- LOINC: Optional. Specify version.\
+- MedDRA：任意指定。バージョンを指定してください
+- WHODD：任意指定。バージョンを指定してください
+- MED-RT：任意指定。バージョンを指定してください
+- LOINC：任意指定。バージョンを指定してください
 \
 Define.xml\
 -Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.\
