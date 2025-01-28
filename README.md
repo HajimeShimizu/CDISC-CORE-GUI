@@ -13,11 +13,11 @@ Following image is GUI of this tool. To validate data package...
 <img width="500" alt="GUI image" src="gui_image.png">
 
 ### Configuration
-Basic Settings\
--Standard: Specify Implematation Guide. All standards supported by CORE show up.\
--Version: Specify version of Standard.\
--CT: Specify version of controlled terminology. Terminology should be placed in 'resources/cache' folder.\
-\
+Basic Settings
+- Standard: Specify Implematation Guide. All standards supported by CORE show up.
+- Version: Specify version of Standard.
+- CT: Specify version of controlled terminology. Terminology should be placed in 'resources/cache' folder.
+
 External Dictionaries\
 -MedDRA: Optional. Specify version.\
 -WHODD: Optional. Specify version.\
