@@ -18,21 +18,20 @@ Basic Settings
 - Version: Specify version of Standard.
 - CT: Specify version of controlled terminology. Terminology should be placed in 'resources/cache' folder.
 
-External Dictionaries\
--MedDRA: Optional. Specify version.\
--WHODD: Optional. Specify version.\
--MED-RT: Optional. Specify version.\
--LOINC: Optional. Specify version.\
-\
-Define.xml\
--Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.\
--define.xml v1.0 is not supported\
-\
-Data files\
--Specify dataset file(s). XPT, JSON, Parquet, USDM are acceptable file formats.\
-\
-Output\
--Specify report folder. '/report' is recommended.
+External Dictionaries
+- MedDRA: Optional. Specify version.
+- WHODD: Optional. Specify version.
+- MED-RT: Optional. Specify version.
+- LOINC: Optional. Specify version.
+
+Define.xml
+- Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.
+
+Data files
+- Specify dataset file(s). XPT, JSON, Parquet, USDM are acceptable file formats.
+
+Output
+- Specify report folder. '/report' is recommended.
 
 ## How to prepare external dictionaries
 -Under preparation.
