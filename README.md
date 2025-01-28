@@ -12,6 +12,7 @@ Following image is GUI of this tool.\
 <img width="500" alt="GUI image" src="gui_image.png">
 
 ### Configuration
+Basic Settings\
 -Standard: Specify Implematation Guide. All standards supported by CORE show up.\
 -Version: Specify version of Standard.\
 -CT: Specify version of controlled terminology. Terminology should be placed in resources/cache folder.\
