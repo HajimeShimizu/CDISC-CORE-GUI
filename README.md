@@ -43,7 +43,7 @@ Store data files under 'config/meddra' folder. Create sub folders for each versi
 Store data files under 'config/who' folder. Create sub folders for each versions. Mandatory files are as follows: DD.txt, INA.txt, DDA.txt, version.txt
 
 ### MEDRT
-Store data files under 'config/medrt' folder. Create sub folders for each versions. Mandatory files is core DTS file: Core_MEDRT_[yyyymmdd]_DTS.xml
+Store data files under 'config/medrt' folder. Create sub folders for each versions. Mandatory file is core DTS file: Core_MEDRT_[yyyymmdd]_DTS.xml
 
 ### LOINC
-Store data files under 'config/loinc' folder. Create sub folders for each versions. Mandatory files is Loinc.csv
+Store data files under 'config/loinc' folder. Create sub folders for each versions. Mandatory file is Loinc.csv
