@@ -5,6 +5,9 @@ README in English [README.md](https://github.com/HajimeShimizu/CDISC-CORE-GUI/bl
 ## 概要
 CDISCはCDISC Open Rules Engine (CORE)を開発していますが、コマンドライン版のみが提供されています。CDISC CORE GUI は、COREにGUIを搭載したものです。本ツールは、ユーザーがテストしやすいCORE環境を用意し、CORE開発者へのフィードバックを促すことを目的としています。
 
+## ダウンロード
+準備中
+
 ## 使い方
 core_gui.exeをダブルクリックします。**起動まで時間がかかる**ケースがあるので、しばらくお待ちください。環境によっては40秒程度かかることが報告されています。大規模データセット（1GB超え）をバリデーションする場合、ローカルにデータを保存して実行することを推奨します。
 
