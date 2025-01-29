@@ -36,4 +36,14 @@ Output
 - Specify report folder. '/report' is recommended.
 
 ## How to prepare external dictionaries
--Under preparation.
+### MedDRA
+Store data files under 'config/meddra' folder. Create sub folders for each versions. Mandatory files are as follows: pt.asc, hlt.asc, llt.asc, soc.asc, hlgt.asc, soc_hlgt.asc, hlgt_hlt.asc, hlt_pt.asc, meddra_relase.asc
+
+### WHODD
+Store data files under 'config/who' folder. Create sub folders for each versions. Mandatory files are as follows: DD.txt, INA.txt, DDA.txt, version.txt
+
+### MEDRT
+Store data files under 'config/medrt' folder. Create sub folders for each versions. Mandatory files is core DTS file: Core_MEDRT_[yyyymmdd]_DTS.xml
+
+### LOINC
+Store data files under 'config/loinc' folder. Create sub folders for each versions. Mandatory files is Loinc.csv
