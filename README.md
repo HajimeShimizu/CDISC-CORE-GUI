@@ -5,6 +5,9 @@ README in Japanese [README-ja.md](https://github.com/HajimeShimizu/CDISC-CORE-GU
 ## Overview
 CDISC is developing CDISC Open Rules Engine (CORE), but only the command line interface is provided to end users. CDISC CORE GUI provides Graphical User Interface to CORE Engine. The purpose is to enhance contribution of CDISC community to CORE project by providing easy-to-test environment.
 
+## Download
+- Comming Soon
+
 ## How to Use
 Double click 'core_gui.exe'. Wait for a while, as it may take some time to boot (40 seconds is reported by test users). When you validate huge package (more than 1 GB), place the files at local drive is recommended.
 
