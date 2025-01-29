@@ -37,7 +37,16 @@ Output
 
 ## How to prepare external dictionaries
 ### MedDRA
-Store data files under 'config/meddra' folder. Create sub folders for each versions. Mandatory files are as follows: pt.asc, hlt.asc, llt.asc, soc.asc, hlgt.asc, soc_hlgt.asc, hlgt_hlt.asc, hlt_pt.asc, meddra_relase.asc
+Store data files under 'config/meddra' folder. Create sub folders for each versions. Mandatory files are as follows: 
+- pt.asc
+- hlt.asc
+- llt.asc
+- soc.asc
+- hlgt.asc
+- soc_hlgt.asc
+- hlgt_hlt.asc
+- hlt_pt.asc
+- meddra_relase.asc
 
 ### WHODD
 Store data files under 'config/who' folder. Create sub folders for each versions. Mandatory files are as follows: DD.txt, INA.txt, DDA.txt, version.txt
