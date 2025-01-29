@@ -36,4 +36,14 @@ Define.xml
 - レポートの出力先フォルダを指定します。’/report’フォルダを推奨します
 
 ## 辞書のセットアップ
--Under preparation.
+### MedDRA
+config/meddraフォルダに辞書データを配置します。バージョンごとにフォルダを作成します。次のファイルが必須です：pt.asc, hlt.asc, llt.asc, soc.asc, hlgt.asc, soc_hlgt.asc, hlgt_hlt.asc, hlt_pt.asc, meddra_relase.asc
+
+### WHODD
+config/whoフォルダに辞書データを配置します。バージョンごとにフォルダを作成します。次のファイルが必須です：DD.txt, INA.txt, DDA.txt, version.txt
+
+### MEDRT
+config/medrtフォルダに辞書データを配置します。バージョンごとにフォルダを作成し、core DTSファイルを保存します。ファイル名は Core_MEDRT_[日付]_DTS.xmlとします
+
+### LOINC
+config/loincフォルダに辞書データを配置します。バージョンごとにフォルダを作成し、LOINCにて配布されているファイルを保存します。ファイル名は Loinc.csvである必要があります
