@@ -27,7 +27,7 @@ core_gui.exeをダブルクリックします。**起動まで時間がかかる
 基本設定
 - 標準：標準を指定します。COREでサポートされている標準のみ表示されます
 - バージョン：標準のバージョンを選択します
-- CT：Controlled Terminologyのバージョンを選びます。'resources/cache'フォルダ内にある用語がリストで表示されます
+- CT：Controlled Terminologyのバージョンを選びます
 
 外部辞書
 - MedDRA：任意指定。バージョンを指定してください
