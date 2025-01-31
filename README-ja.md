@@ -9,9 +9,9 @@ CDISCはCDISC Open Rules Engine (CORE)を開発していますが、コマンド
 [こちらのページ](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases/tag/v0.1.3)からダウンロードできます
 
 ### 解凍
-1. 以下のファイルをダウンロードします
 <img width="200" alt="GUI image" src="files.png">
-2. exeファイルをダブルクリックすると、ファイルが結合されます/
+1. 以下のファイルをダウンロードします
+2. exeファイルをダブルクリックすると、ファイルが結合されます
 3. 圧縮ファイルを解凍します
 
 ## 使い方
