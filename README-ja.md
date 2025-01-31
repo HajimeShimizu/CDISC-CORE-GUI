@@ -9,6 +9,7 @@ CDISCはCDISC Open Rules Engine (CORE)を開発していますが、コマンド
 [こちらのページ](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases/tag/v0.1.3)からダウンロードできます
 
 1. すべてのファイルをダウンロードします
+<img width="100" alt="GUI image" src="files.png">
 
 ## 使い方
 core_gui.exeをダブルクリックします。**起動まで時間がかかる**ケースがあるので、しばらくお待ちください。環境によっては40秒程度かかることが報告されています。大規模データセット（1GB超え）をバリデーションする場合、ローカルにデータを保存して実行することを推奨します。
