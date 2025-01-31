@@ -49,14 +49,14 @@ Store data files under 'config/meddra' folder. Create sub folders for each versi
 - soc_hlgt.asc
 - hlgt_hlt.asc
 - hlt_pt.asc
-- meddra_relase.asc
+- meddra_release.asc
 
 ### WHODD
 Store data files under 'config/who' folder. Create sub folders for each versions. Mandatory files are as follows: 
 - DD.txt
 - INA.txt
 - DDA.txt
-- version.txt
+- Version.txt
 
 ### MEDRT
 Store data files under 'config/medrt' folder. Create sub folders for each versions. Mandatory file is core DTS file: Core_MEDRT_[yyyymmdd]_DTS.xml
