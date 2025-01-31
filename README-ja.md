@@ -56,7 +56,9 @@ config/whoフォルダに辞書データを配置します。バージョンご�
 - DD.txt
 - INA.txt
 - DDA.txt
-- Version.txt
+- version.txt [*]
+
+[*]: UMCから公式に配布されているパッケージでは 'Version.txt' です。ファイル名の変更が必要ないか、確認してください
 
 ### MEDRT
 config/medrtフォルダに辞書データを配置します。バージョンごとにフォルダを作成し、core DTSファイルを保存します。ファイル名は Core_MEDRT_[日付]_DTS.xmlとします
