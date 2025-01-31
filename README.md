@@ -56,7 +56,9 @@ Store data files under 'config/who' folder. Create sub folders for each versions
 - DD.txt
 - INA.txt
 - DDA.txt
-- Version.txt
+- version.txt [*]
+
+[*]: 'Version.txt' is provided by UMC. Need to change file name. 
 
 ### MEDRT
 Store data files under 'config/medrt' folder. Create sub folders for each versions. Mandatory file is core DTS file: Core_MEDRT_[yyyymmdd]_DTS.xml
