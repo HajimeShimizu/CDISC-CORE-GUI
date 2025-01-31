@@ -49,14 +49,14 @@ config/meddraフォルダに辞書データを配置します。バージョン�
 - soc_hlgt.asc
 - hlgt_hlt.asc
 - hlt_pt.asc
-- meddra_relase.asc
+- meddra_release.asc
 
 ### WHODD
 config/whoフォルダに辞書データを配置します。バージョンごとにフォルダを作成します。次のファイルが必須です：
 - DD.txt
 - INA.txt
 - DDA.txt
-- version.txt
+- Version.txt
 
 ### MEDRT
 config/medrtフォルダに辞書データを配置します。バージョンごとにフォルダを作成し、core DTSファイルを保存します。ファイル名は Core_MEDRT_[日付]_DTS.xmlとします
