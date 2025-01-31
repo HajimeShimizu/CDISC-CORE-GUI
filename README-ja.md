@@ -11,7 +11,7 @@ CDISCはCDISC Open Rules Engine (CORE)を開発していますが、コマンド
 ### 解凍
 1. 以下のファイルをダウンロードします
 <img width="200" alt="GUI image" src="files.png">
-2. exeファイルをダブルクリックすると、ファイルが結合されます
+2. exeファイルをダブルクリックすると、ファイルが結合されます/
 3. 圧縮ファイルを解凍します
 
 ## 使い方
