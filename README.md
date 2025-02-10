@@ -6,7 +6,7 @@
 CDISC is developing CDISC Open Rules Engine (CORE), but only the command line interface is provided to end users. CDISC CORE GUI provides Graphical User Interface to CORE Engine. The purpose is to enhance contribution of CDISC community to CORE project by providing easy-to-test environment.
 
 ## Download
-[Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases/tag/v0.1.3)\
+[Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
 <img width="200" alt="GUI image" src="files.png">
 
 ### Note
