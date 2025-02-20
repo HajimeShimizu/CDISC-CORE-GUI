@@ -45,8 +45,9 @@ Output
 - Specify report folder. '/report' is recommended.
 
 Log
-- Specify log level. Default value is "Critical". This setting is highly recommended.
+- Specify log level. Default value is "Critical". Default setting is highly recommended.
 - Valid options are Critical/Error/Warn/Info/Debug.
+- Gigantic amount of logs are provided in Debug mode.
 
 ## How to prepare external dictionaries
 ### MedDRA
