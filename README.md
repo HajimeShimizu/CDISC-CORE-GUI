@@ -44,6 +44,10 @@ Data files
 Output
 - Specify report folder. '/report' is recommended.
 
+Log
+- Specify log level. Default value is "Critical". This setting is highly recommended.
+- Valid options are Critical/Error/Warn/Info/Debug.
+
 ## How to prepare external dictionaries
 ### MedDRA
 Store data files under 'config/meddra' folder. Create sub folders for each versions. Mandatory files are as follows: 
