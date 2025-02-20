@@ -21,7 +21,7 @@ core_gui.exeをダブルクリックします。**起動まで時間がかかる
 1. 必要なパラメータを指定し、
 2. 「実行」ボタンを押します
 
-<img width="500" alt="GUI image" src="gui_image.jpg">
+<img width="500" alt="GUI image" src="gui_image.png">
 
 ### パラメータの指定
 基本設定
