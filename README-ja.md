@@ -3,7 +3,8 @@
 README in English [README.md](https://github.com/HajimeShimizu/CDISC-CORE-GUI/blob/main/README.md).
 
 ## 概要
-CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発していますが、コマンドライン版のみが提供されています。CDISC CORE GUI は、COREにGUIを搭載したものです。本ツールは、ユーザーがテストしやすいCORE環境を用意し、CORE開発者へのフィードバックを促すことを目的としています。
+CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発していますが、コマンドライン版のみが提供されています。CDISC CORE GUI は、COREにGUIを搭載したものです。本ツールは、ユーザーがテストしやすいCORE環境を用意し、CORE開発者へのフィードバック/
+PMDAルール開発を促すことを目的としています。
 
 ## ダウンロード
 [こちらのページ](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)からダウンロードできます\
@@ -40,6 +41,8 @@ Define.xml
 
 データセット
 - バリデーションの対象となるデータセットを指定します。XPT・JSON・PARQUET・USDM形式のデータを指定できます
+- ファイルの追加・削除が可能です
+-- a
 
 出力先
 - レポートの出力先フォルダを指定します。’/report’フォルダを推奨します
