@@ -44,7 +44,7 @@ Define.xml
 - ファイルの追加・削除が可能です
   - ファイルの追加：「データの選択」ボタンから、追加したいファイルを選らびます
   - ファイルの削除：削除したいファイルを選択し、「データの削除」ボタンを押します
-  - <img width="350" alt="GUI delete" src="gui_delete.png">
+  - <img width="450" alt="GUI delete" src="gui_delete.png">
 
 出力先
 - レポートの出力先フォルダを指定します。’/report’フォルダを推奨します
