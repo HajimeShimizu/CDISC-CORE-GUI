@@ -3,7 +3,7 @@
 日本語ページはこちら [README-ja.md](https://github.com/HajimeShimizu/CDISC-CORE-GUI/blob/main/README-ja.md).
 
 ## Overview
-CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine), but only the command line interface is provided to end users. CDISC CORE GUI provides Graphical User Interface to CORE Engine. The purpose is to enhance contribution of CDISC community to CORE project by providing easy-to-test environment.
+CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine), but only the command line interface is provided to end users. CDISC CORE GUI provides Graphical User Interface to CORE Engine. The purpose is to enhance contribution of CDISC community to CORE project and to promote the development of PMDA regulatory rules implementation by providing easy-to-test environment.
 
 ## Download
 [Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
@@ -40,7 +40,10 @@ Define.xml
 
 Data files
 - Specify dataset file(s). XPT, JSON, Parquet, USDM are acceptable file formats.
-
+- Files can be added/deleted:
+  - Addtion： Select files from 'Data Selection' button.
+  - Deletion： Select files to delete, then press 'Clear data' button.
+  - <img width="450" alt="GUI delete" src="gui_delete.png">
 Output
 - Specify report folder. '/report' is recommended.
 
