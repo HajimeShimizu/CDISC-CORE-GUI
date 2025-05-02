@@ -5,6 +5,8 @@
 ## Overview
 CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine), but only the command line interface is provided to end users. CDISC CORE GUI provides Graphical User Interface to CORE Engine. The purpose is to enhance contribution of CDISC community to CORE project and to promote the development of PMDA regulatory rules implementation by providing easy-to-test environment.
 
+Current version of CDISC-CORE-GUI is built upon CORE v0.9.3.
+
 ## Download
 [Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
 <img width="200" alt="GUI image" src="files.png">
@@ -34,6 +36,7 @@ External Dictionaries
 - WHODD: Optional. Specify version.
 - MED-RT: Optional. Specify version.
 - LOINC: Optional. Specify version.
+- UNII: Optional. Specify version.
 
 Define.xml
 - Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.
@@ -79,3 +82,6 @@ Store data files under 'config/medrt' folder. Create sub folders for each versio
 
 ### LOINC
 Store data files under 'config/loinc' folder. Create sub folders for each versions. Mandatory file is Loinc.csv
+
+### UNII
+Store data files under 'config/unii' folder. Create sub folders for each versions. Mandatory file is UNII_Records_[ddMmmyyyy].txt
