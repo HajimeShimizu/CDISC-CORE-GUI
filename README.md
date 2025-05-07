@@ -37,9 +37,11 @@ External Dictionaries
 - MED-RT: Optional. Specify version.
 - LOINC: Optional. Specify version.
 - UNII: Optional. Specify version.
+- SNOMED : Not available as Japan is not in territories of SNOMED. (But SNOMED option is implemented as part of CORE)
 
 Define.xml
-- Either 'path of define.xml' or 'expected version of define.xml' must be specified. 'Expcted version' is ignored when both parameters are specified.
+- Either 'path of define.xml' or 'expected version of define.xml' must be specified.
+- Tick when validate define.xml as standalone (But it seems unavailable in CORE v0.9.3)
 
 Data files
 - Specify dataset file(s). XPT, JSON, Parquet, USDM are acceptable file formats.
