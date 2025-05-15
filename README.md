@@ -5,7 +5,7 @@
 ## Overview
 CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine), but only the command line interface is provided to end users. CDISC CORE GUI provides Graphical User Interface to CORE Engine. The purpose is to enhance contribution of CDISC community to CORE project and to promote the development of PMDA regulatory rules implementation by providing easy-to-test environment.
 
-Current version of CDISC-CORE-GUI is built upon CORE v0.9.3.
+Current version of CDISC-CORE-GUI is built upon CORE v0.10.0.
 
 ## Download
 [Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
@@ -41,10 +41,12 @@ External Dictionaries
 
 Define.xml
 - Either 'path of define.xml' or 'expected version of define.xml' must be specified.
+- When define.xml is not available for validation, please tick 2.0/2.1.
 - Tick when validate define.xml as standalone (But it seems unavailable in CORE v0.9.3)
 
 Data files
 - Specify dataset file(s). XPT, JSON, Parquet, USDM are acceptable file formats.
+- XLSX file that follows specified format is accepted.
 - Files can be added/deleted:
   - Addtion： Select files from 'Data Selection' button.
   - Deletion： Select files to delete, then press 'Clear data' button.
