@@ -5,7 +5,7 @@ README in English [README.md](https://github.com/HajimeShimizu/CDISC-CORE-GUI/bl
 ## 概要
 CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発していますが、コマンドライン版のみが提供されています。CDISC CORE GUI は、COREにGUIを搭載したものです。本ツールは、ユーザーがテストしやすいCORE環境を用意し、CORE開発者へのフィードバック/PMDAルール開発を促すことを目的としています。
 
-CDISC-CORE-GUIの最新バージョンでは、CORE v0.9.3をベースとしています、
+CDISC-CORE-GUIの最新バージョンでは、CORE v0.10.0をベースとしています、
 
 ## ダウンロード
 [こちらのページ](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)からダウンロードできます\
@@ -46,6 +46,7 @@ Define.xml
 
 データセット
 - バリデーションの対象となるデータセットを指定します。XPT・JSON・PARQUET・USDM形式のデータを指定できます
+- 指定の書式に従って作成したXLSX形式のデータを指定できます
 - ファイルの追加・削除が可能です
   - ファイルの追加：「データの選択」ボタンから、追加したいファイルを選びます
   - ファイルの削除：削除したいファイルを選択し、「データの削除」ボタンを押します
