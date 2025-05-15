@@ -23,7 +23,7 @@ Following image is GUI of this tool. To validate data package...
 1. Specify all required parameters.
 2. Press 'Run' button.
 
-<img width="500" alt="GUI image" src="gui_image.png">
+<img width="500" alt="GUI image" src="core_gui_image.png">
 
 ### Configuration
 Basic Settings
