@@ -19,11 +19,15 @@ Current version of CDISC-CORE-GUI is built upon CORE v0.10.0.
 ## How to Use
 Double click 'core_gui.exe'. Wait for a while, as it may take some time to boot (40 seconds is reported by test users). When you validate huge package (more than 1 GB), place the files at local drive is recommended.
 
+At first, select language.
+
+<img width="300" alt="image" src="core_rule_browser_lang.png">
+
 Following image is GUI of this tool. To validate data package...
 1. Specify all required parameters.
 2. Press 'Run' button.
 
-<img width="500" alt="GUI image" src="core_gui_image.png">
+<img width="500" alt="GUI image" src="core_gui_image_en.png">
 
 ### Configuration
 Basic Settings
