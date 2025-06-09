@@ -11,6 +11,11 @@ CDISC-CORE-GUIの最新バージョンでは、CORE v0.10.0をベースとして
 [こちらのページ](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)からダウンロードできます\
 <img width="200" alt="GUI image" src="files.png">
 
+ダウンロードパッケージには複数のツールが同梱されています。
+1. CDISC-CORE-GUI（このプロジェクト）
+2. [CDISC Open Rules Engine](https://github.com/cdisc-org/cdisc-rules-engine)プロジェクトが提供しているキャッシュファイル
+3. [ルールブラウザ](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser)
+
 ### 注意事項
 1. 上記ファイルをすべてダウンロードします
 2. exeファイルをダブルクリックすると、ファイルが結合されます
