@@ -8,6 +8,11 @@ CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-or
 Current version of CDISC-CORE-GUI is built upon CORE v0.10.0.
 
 ## Download
+Download package is a composite of several products.
+1. CDISC-CORE-GUI
+2. Cache files that are provided by CDISC Open Rules Engine
+3. Rule Browser
+
 [Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
 <img width="200" alt="GUI image" src="files.png">
 
