@@ -13,7 +13,7 @@ Download package is a composite of several products.
 2. Cache files that are provided by [CDISC Open Rules Engine](https://github.com/cdisc-org/cdisc-rules-engine)
 3. [Rule Browser](https://github.com/HajimeShimizu/CDISC-CORE-Rule-Browser)
 
-[Visit this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
+Files for download package above is found at [this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
 <img width="200" alt="GUI image" src="files.png">
 
 ### Note
