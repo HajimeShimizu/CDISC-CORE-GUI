@@ -5,7 +5,7 @@
 ## Overview
 CDISC is developing [CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine), but only the command line interface is provided to end users. CDISC CORE GUI provides Graphical User Interface to CORE Engine. The purpose is to enhance contribution of CDISC community to CORE project and to promote the development of PMDA regulatory rules implementation by providing easy-to-test environment.
 
-Current version of CDISC-CORE-GUI is built upon CORE v0.12.0.
+Current version of CDISC-CORE-GUI is built upon CORE v0.14.0.
 
 ## Download
 Files for download package above is found at [this page](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)\
