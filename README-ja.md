@@ -5,15 +5,16 @@ README in English [README.md](https://github.com/HajimeShimizu/CDISC-CORE-GUI/bl
 ## 概要
 CDISCは[CDISC Open Rules Engine (CORE)](https://github.com/cdisc-org/cdisc-rules-engine)を開発していますが、コマンドライン版のみが提供されています。CDISC CORE GUI は、COREにGUIを搭載したものです。本ツールは、ユーザーがテストしやすいCORE環境を用意し、CORE開発者へのフィードバック/PMDAルール開発を促すことを目的としています。
 
-CDISC-CORE-GUIの最新バージョンでは、CORE v0.16.0をベースとしています、
+CDISC-CORE-GUIの最新バージョンでは、CORE v1.0.0をベースとしています、
 
 ## ダウンロード
 [こちらのページ](https://github.com/HajimeShimizu/CDISC-CORE-GUI/releases)からダウンロードできます\
 
 ダウンロードパッケージには複数のツールが同梱されています。
 1. CDISC-CORE-GUI（このプロジェクト）
-2. [CDISC Open Rules Engine](https://github.com/cdisc-org/cdisc-rules-engine)プロジェクトが提供しているキャッシュファイル
-3. その他、セットアップ情報用のフォルダ
+2. Rule Browser
+3. [CDISC Open Rules Engine](https://github.com/cdisc-org/cdisc-rules-engine)プロジェクトが提供しているキャッシュファイル
+4. その他、セットアップ情報用のフォルダ
 
 ### 注意事項
 1. 付属のフォルダを移動させると動作しなくなります
